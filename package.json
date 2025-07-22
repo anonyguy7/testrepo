@@ -20,6 +20,10 @@
   "homepage": "https://github.com/anonyguy7/testrepo#readme",
   "description": "",
   "devDependencies": {
+    "@types/express": "^5.0.3",
     "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
   }
 }
